@@ -34,3 +34,15 @@ Habiba Yousaf
 
 ## Project Status
 Version 1.0 - Completed
+
+## Screenshots
+
+### Main Menu
+![Main Menu](screenshots/main-menu.png)
+
+### Add Student
+![Add Student](screenshots/add-students.png)
+
+### View Students
+![View Students](screenshots/view-students.png)
+
