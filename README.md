@@ -38,11 +38,11 @@ Version 1.0 - Completed
 ## Screenshots
 
 ### Main Menu
-![Main Menu](screenshots/main-menu.png)
+![Main Menu](ScreenShotsmain-menu.png)
 
 ### Add Student
-![Add Student](screenshots/add-students.png)
+![Add Student](ScreenShots/add-students.png)
 
 ### View Students
-![View Students](screenshots/view-students.png)
+![View Students](ScreenShots/view-students.png)
 
