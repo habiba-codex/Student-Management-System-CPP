@@ -24,7 +24,7 @@ to manage student records.
 ## How to Run
 
 Compile:
-g++ src/main.cpp -o main.exe
+g++ main.cpp -o main.exe
 
 Run:
 main.exe
